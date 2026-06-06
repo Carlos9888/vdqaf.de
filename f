@@ -6,11 +6,11 @@
   <title>Redirecting...</title>
   <script>
     window.onload = function () {
-      window.location.replace("/f/* https://s.shopee.co.id/3B4o89qvRl");
+      window.location.replace("/f/* https://s.shopee.co.id/8V6MT43FFW");
     };
   </script>
 </head>
 <body>
-  <p>Redirecting to <a href="https://s.shopee.co.id/3B4o89qvRl">Shopee</a>...</p>
+  <p>Redirecting to <a href="https://s.shopee.co.id/8V6MT43FFW">Shopee</a>...</p>
 </body>
 </html>
